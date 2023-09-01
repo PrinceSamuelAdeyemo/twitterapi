@@ -1,0 +1,4648 @@
+{
+  "globalObjects": {
+    "tweets": {
+      "771550311953477632": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550311953477632,
+        "id_str": "771550311953477632",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/qJYO5uprja",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/qJYO5uprja",
+              "expanded_url": "http://dlvr.it/M9QXvN",
+              "display_url": "dlvr.it/M9QXvN",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 290646797,
+        "user_id_str": "290646797",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550311953477632,
+        "conversation_id_str": "771550311953477632",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550468979896320": {
+        "created_at": "Fri Sep 02 03:29:01 +0000 2016",
+        "id": 771550468979896320,
+        "id_str": "771550468979896320",
+        "full_text": "Beat my 2675m in #MiniRacingAdventures [iOS]: https://t.co/Uo2L0J6u6X [Android]: https://t.co/HFBGfkonbI",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          104
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "MiniRacingAdventures",
+              "indices": [
+                17,
+                38
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Uo2L0J6u6X",
+              "expanded_url": "http://goo.gl/ZVed9x",
+              "display_url": "goo.gl/ZVed9x",
+              "indices": [
+                46,
+                69
+              ]
+            },
+            {
+              "url": "https://t.co/HFBGfkonbI",
+              "expanded_url": "http://goo.gl/SVCjju",
+              "display_url": "goo.gl/SVCjju",
+              "indices": [
+                81,
+                104
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 412646305,
+        "user_id_str": "412646305",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550468979896320,
+        "conversation_id_str": "771550468979896320",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "en",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550327862550530": {
+        "created_at": "Fri Sep 02 03:28:27 +0000 2016",
+        "id": 771550327862550530,
+        "id_str": "771550327862550530",
+        "full_text": "* Pasamos a Recomendar FreeMyApps, sólo descarga apps en IOS y Android, prueblalas y obtén $$$ y mÃ¡s https://t.co/7HwwtwaVVI",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          125
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/7HwwtwaVVI",
+              "expanded_url": "http://goo.gl/tOkdy7",
+              "display_url": "goo.gl/tOkdy7",
+              "indices": [
+                102,
+                125
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.facebook.com/DLsistemas\" rel=\"nofollow\">TweetAutomaticos</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 297623430,
+        "user_id_str": "297623430",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550327862550530,
+        "conversation_id_str": "771550327862550530",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "es",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550226020569088": {
+        "created_at": "Fri Sep 02 03:28:03 +0000 2016",
+        "id": 771550226020569088,
+        "id_str": "771550226020569088",
+        "full_text": "https://t.co/hzBNHFViYE #2381 W8 Smart Wrist Watch Bluetooth GSM Phone SIM Card For Android Samsung iOS iPhone https://t.co/ZY0VAvkCij",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          110
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hzBNHFViYE",
+              "expanded_url": "http://ift.tt/2aSLE2B",
+              "display_url": "ift.tt/2aSLE2B",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 771550224091185153,
+              "id_str": "771550224091185153",
+              "indices": [
+                111,
+                134
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUY10lUAAEBZO_.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUY10lUAAEBZO_.jpg",
+              "url": "https://t.co/ZY0VAvkCij",
+              "display_url": "pic.twitter.com/ZY0VAvkCij",
+              "expanded_url": "https://twitter.com/Shfzs_xyz_22/status/771550226020569088/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 80,
+                "height": 80
+              },
+              "sizes": {
+                "large": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "crop"
+                }
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 771550224091185153,
+              "id_str": "771550224091185153",
+              "indices": [
+                111,
+                134
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUY10lUAAEBZO_.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUY10lUAAEBZO_.jpg",
+              "url": "https://t.co/ZY0VAvkCij",
+              "display_url": "pic.twitter.com/ZY0VAvkCij",
+              "expanded_url": "https://twitter.com/Shfzs_xyz_22/status/771550226020569088/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 80,
+                "height": 80
+              },
+              "sizes": {
+                "large": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 80,
+                  "h": 80,
+                  "resize": "crop"
+                }
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "media_key": "3_771550224091185153",
+              "ext_sensitive_media_warning": null,
+              "ext_media_availability": {
+                "status": "available"
+              },
+              "ext_alt_text": null,
+              "ext_media_color": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "red": 255,
+                      "green": 255,
+                      "blue": 255
+                    },
+                    "percentage": 79.28
+                  },
+                  {
+                    "rgb": {
+                      "red": 102,
+                      "green": 102,
+                      "blue": 102
+                    },
+                    "percentage": 20.72
+                  }
+                ]
+              },
+              "ext": {
+                "mediaStats": {
+                  "r": "Missing",
+                  "ttl": -1
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 3690184512,
+        "user_id_str": "3690184512",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550226020569088,
+        "conversation_id_str": "771550226020569088",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "en",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550311051763712": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550311051763712,
+        "id_str": "771550311051763712",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/cLiQosDs2L",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/cLiQosDs2L",
+              "expanded_url": "http://dlvr.it/M9QXtx",
+              "display_url": "dlvr.it/M9QXtx",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332331504,
+        "user_id_str": "332331504",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550311051763712,
+        "conversation_id_str": "771550311051763712",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550206718468098": {
+        "created_at": "Fri Sep 02 03:27:58 +0000 2016",
+        "id": 771550206718468098,
+        "id_str": "771550206718468098",
+        "full_text": "https://t.co/JjeEF4pis9 #7513 W8 Smart Wrist Watch Bluetooth GSM Phone SIM Card For Android Samsung iOS iPhone https://t.co/VgegvFSkDY",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          110
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/JjeEF4pis9",
+              "expanded_url": "http://ift.tt/2aL7FfH",
+              "display_url": "ift.tt/2aL7FfH",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 771550204835225600,
+              "id_str": "771550204835225600",
+              "indices": [
+                111,
+                134
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUY0s2VYAAStb9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUY0s2VYAAStb9.jpg",
+              "url": "https://t.co/VgegvFSkDY",
+              "display_url": "pic.twitter.com/VgegvFSkDY",
+              "expanded_url": "https://twitter.com/Shfzs_xyz_22/status/771550206718468098/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 140,
+                "height": 140
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "small": {
+                  "faces": []
+                },
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 771550204835225600,
+              "id_str": "771550204835225600",
+              "indices": [
+                111,
+                134
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUY0s2VYAAStb9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUY0s2VYAAStb9.jpg",
+              "url": "https://t.co/VgegvFSkDY",
+              "display_url": "pic.twitter.com/VgegvFSkDY",
+              "expanded_url": "https://twitter.com/Shfzs_xyz_22/status/771550206718468098/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 140,
+                "height": 140
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "small": {
+                  "faces": []
+                },
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "media_key": "3_771550204835225600",
+              "ext_sensitive_media_warning": null,
+              "ext_media_availability": {
+                "status": "available"
+              },
+              "ext_alt_text": null,
+              "ext_media_color": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "red": 255,
+                      "green": 255,
+                      "blue": 255
+                    },
+                    "percentage": 66.19
+                  },
+                  {
+                    "rgb": {
+                      "red": 169,
+                      "green": 218,
+                      "blue": 74
+                    },
+                    "percentage": 11.98
+                  },
+                  {
+                    "rgb": {
+                      "red": 26,
+                      "green": 22,
+                      "blue": 29
+                    },
+                    "percentage": 5.69
+                  },
+                  {
+                    "rgb": {
+                      "red": 217,
+                      "green": 239,
+                      "blue": 160
+                    },
+                    "percentage": 2.78
+                  },
+                  {
+                    "rgb": {
+                      "red": 199,
+                      "green": 215,
+                      "blue": 243
+                    },
+                    "percentage": 1.25
+                  }
+                ]
+              },
+              "ext": {
+                "mediaStats": {
+                  "r": "Missing",
+                  "ttl": -1
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 3690184512,
+        "user_id_str": "3690184512",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550206718468098,
+        "conversation_id_str": "771550206718468098",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "en",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550312410648577": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550312410648577,
+        "id_str": "771550312410648577",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/3EK9KKJWDS",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/3EK9KKJWDS",
+              "expanded_url": "http://dlvr.it/M9QXvw",
+              "display_url": "dlvr.it/M9QXvw",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332335727,
+        "user_id_str": "332335727",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550312410648577,
+        "conversation_id_str": "771550312410648577",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550310305140738": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550310305140738,
+        "id_str": "771550310305140738",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/WapWpuTS23",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/WapWpuTS23",
+              "expanded_url": "http://dlvr.it/M9QXtt",
+              "display_url": "dlvr.it/M9QXtt",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332345702,
+        "user_id_str": "332345702",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550310305140738,
+        "conversation_id_str": "771550310305140738",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550311248908288": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550311248908288,
+        "id_str": "771550311248908288",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/3PkXUFLEAT",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/3PkXUFLEAT",
+              "expanded_url": "http://dlvr.it/M9QXvL",
+              "display_url": "dlvr.it/M9QXvL",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332277868,
+        "user_id_str": "332277868",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550311248908288,
+        "conversation_id_str": "771550311248908288",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550314289737728": {
+        "created_at": "Fri Sep 02 03:28:24 +0000 2016",
+        "id": 771550314289737728,
+        "id_str": "771550314289737728",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/f7N30nhNZG",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/f7N30nhNZG",
+              "expanded_url": "http://dlvr.it/M9QXw7",
+              "display_url": "dlvr.it/M9QXw7",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332361768,
+        "user_id_str": "332361768",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550314289737728,
+        "conversation_id_str": "771550314289737728",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550312343572480": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550312343572480,
+        "id_str": "771550312343572480",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/HeyGpwwiAl",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/HeyGpwwiAl",
+              "expanded_url": "http://dlvr.it/M9QXvn",
+              "display_url": "dlvr.it/M9QXvn",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332357213,
+        "user_id_str": "332357213",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550312343572480,
+        "conversation_id_str": "771550312343572480",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550172765487105": {
+        "created_at": "Fri Sep 02 03:27:50 +0000 2016",
+        "id": 771550172765487105,
+        "id_str": "771550172765487105",
+        "full_text": "https://t.co/BynoxkzlHr #6391 GT08 Touch Screen Bluetooth Smart Wrist Watch Phone Mate For Android IOS iPhone https://t.co/90dpvH9R7W",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          109
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/BynoxkzlHr",
+              "expanded_url": "http://ift.tt/29WJ7Qf",
+              "display_url": "ift.tt/29WJ7Qf",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 771550170001440768,
+              "id_str": "771550170001440768",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUYyrFUAAA7Trw.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUYyrFUAAA7Trw.jpg",
+              "url": "https://t.co/90dpvH9R7W",
+              "display_url": "pic.twitter.com/90dpvH9R7W",
+              "expanded_url": "https://twitter.com/Shfzs_xyz_22/status/771550172765487105/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 140,
+                "height": 140
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "small": {
+                  "faces": []
+                },
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 771550170001440768,
+              "id_str": "771550170001440768",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUYyrFUAAA7Trw.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUYyrFUAAA7Trw.jpg",
+              "url": "https://t.co/90dpvH9R7W",
+              "display_url": "pic.twitter.com/90dpvH9R7W",
+              "expanded_url": "https://twitter.com/Shfzs_xyz_22/status/771550172765487105/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 140,
+                "height": 140
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 140,
+                  "h": 140,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "small": {
+                  "faces": []
+                },
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "media_key": "3_771550170001440768",
+              "ext_sensitive_media_warning": null,
+              "ext_media_availability": {
+                "status": "available"
+              },
+              "ext_alt_text": null,
+              "ext_media_color": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "red": 255,
+                      "green": 255,
+                      "blue": 255
+                    },
+                    "percentage": 64.09
+                  },
+                  {
+                    "rgb": {
+                      "red": 16,
+                      "green": 16,
+                      "blue": 16
+                    },
+                    "percentage": 29.92
+                  },
+                  {
+                    "rgb": {
+                      "red": 126,
+                      "green": 121,
+                      "blue": 120
+                    },
+                    "percentage": 5.16
+                  },
+                  {
+                    "rgb": {
+                      "red": 149,
+                      "green": 89,
+                      "blue": 71
+                    },
+                    "percentage": 0.59
+                  },
+                  {
+                    "rgb": {
+                      "red": 232,
+                      "green": 180,
+                      "blue": 156
+                    },
+                    "percentage": 0.45
+                  }
+                ]
+              },
+              "ext": {
+                "mediaStats": {
+                  "r": "Missing",
+                  "ttl": -1
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 3690184512,
+        "user_id_str": "3690184512",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550172765487105,
+        "conversation_id_str": "771550172765487105",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "en",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550311374688257": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550311374688257,
+        "id_str": "771550311374688257",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/mo0ImrWdbe",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/mo0ImrWdbe",
+              "expanded_url": "http://dlvr.it/M9QXtz",
+              "display_url": "dlvr.it/M9QXtz",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332339871,
+        "user_id_str": "332339871",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550311374688257,
+        "conversation_id_str": "771550311374688257",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550145712300032": {
+        "created_at": "Fri Sep 02 03:27:44 +0000 2016",
+        "id": 771550145712300032,
+        "id_str": "771550145712300032",
+        "full_text": "レベル28の水槽はこちらです。 #フィッシュガーデン iOS版:https://t.co/FrHabMKWwk Android版:https://t.co/IUled7NJJh https://t.co/r7gd5IKZjs",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          88
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "フィッシュガーデン",
+              "indices": [
+                16,
+                26
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/FrHabMKWwk",
+              "expanded_url": "https://goo.gl/Zhihal",
+              "display_url": "goo.gl/Zhihal",
+              "indices": [
+                32,
+                55
+              ]
+            },
+            {
+              "url": "https://t.co/IUled7NJJh",
+              "expanded_url": "https://goo.gl/GJBwjD",
+              "display_url": "goo.gl/GJBwjD",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 771550143162101760,
+              "id_str": "771550143162101760",
+              "indices": [
+                89,
+                112
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUYxHGUMAAbMkq.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUYxHGUMAAbMkq.jpg",
+              "url": "https://t.co/r7gd5IKZjs",
+              "display_url": "pic.twitter.com/r7gd5IKZjs",
+              "expanded_url": "https://twitter.com/sakuratabeta8/status/771550145712300032/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1136,
+                "height": 640
+              },
+              "sizes": {
+                "large": {
+                  "w": 1136,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1136,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 771550143162101760,
+              "id_str": "771550143162101760",
+              "indices": [
+                89,
+                112
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUYxHGUMAAbMkq.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUYxHGUMAAbMkq.jpg",
+              "url": "https://t.co/r7gd5IKZjs",
+              "display_url": "pic.twitter.com/r7gd5IKZjs",
+              "expanded_url": "https://twitter.com/sakuratabeta8/status/771550145712300032/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1136,
+                "height": 640
+              },
+              "sizes": {
+                "large": {
+                  "w": 1136,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1136,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "media_key": "3_771550143162101760",
+              "ext_sensitive_media_warning": null,
+              "ext_media_availability": {
+                "status": "available"
+              },
+              "ext_alt_text": null,
+              "ext_media_color": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "red": 17,
+                      "green": 130,
+                      "blue": 183
+                    },
+                    "percentage": 65.83
+                  },
+                  {
+                    "rgb": {
+                      "red": 184,
+                      "green": 182,
+                      "blue": 125
+                    },
+                    "percentage": 7.75
+                  },
+                  {
+                    "rgb": {
+                      "red": 72,
+                      "green": 58,
+                      "blue": 41
+                    },
+                    "percentage": 3.99
+                  },
+                  {
+                    "rgb": {
+                      "red": 56,
+                      "green": 142,
+                      "blue": 25
+                    },
+                    "percentage": 3.93
+                  },
+                  {
+                    "rgb": {
+                      "red": 74,
+                      "green": 201,
+                      "blue": 230
+                    },
+                    "percentage": 2.12
+                  }
+                ]
+              },
+              "ext": {
+                "mediaStats": {
+                  "r": "Missing",
+                  "ttl": -1
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 2425105406,
+        "user_id_str": "2425105406",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550145712300032,
+        "conversation_id_str": "771550145712300032",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550524483043328": {
+        "created_at": "Fri Sep 02 03:29:14 +0000 2016",
+        "id": 771550524483043328,
+        "id_str": "771550524483043328",
+        "full_text": "Si quieres ganar dinero probando apps (IOS &amp; Android), prueba FreeMyApps..https://t.co/ZSiAWAmbfY Funciona, garantizado! #Amazon",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          132
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Amazon",
+              "indices": [
+                125,
+                132
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/ZSiAWAmbfY",
+              "expanded_url": "http://goo.gl/tOkdy7",
+              "display_url": "goo.gl/tOkdy7",
+              "indices": [
+                78,
+                101
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.facebook.com/DLsistemas\" rel=\"nofollow\">TweetAutomaticos</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 297622791,
+        "user_id_str": "297622791",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550524483043328,
+        "conversation_id_str": "771550524483043328",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "es",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550289757208577": {
+        "created_at": "Fri Sep 02 03:28:18 +0000 2016",
+        "id": 771550289757208577,
+        "id_str": "771550289757208577",
+        "full_text": "@AcidmanTener それはそうなんですが、iOSとAndroidの仕様上、チートを出さない事自体、非常に難しいと思いますよ。ので、掛けなくて良いお金かどうか自体が微妙な所になります。現にアカウント作り直し対策は出来てませんし、正確に言えば出来ない。",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          128
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 4169239693,
+        "user_id_str": "4169239693",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771415180127313920,
+        "conversation_id_str": "771415180127313920",
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550314889523201": {
+        "created_at": "Fri Sep 02 03:28:24 +0000 2016",
+        "id": 771550314889523201,
+        "id_str": "771550314889523201",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/eRPN3HYpr3",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/eRPN3HYpr3",
+              "expanded_url": "http://dlvr.it/M9QXvF",
+              "display_url": "dlvr.it/M9QXvF",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332352754,
+        "user_id_str": "332352754",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550314889523201,
+        "conversation_id_str": "771550314889523201",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550311227936768": {
+        "created_at": "Fri Sep 02 03:28:23 +0000 2016",
+        "id": 771550311227936768,
+        "id_str": "771550311227936768",
+        "full_text": "Android/iOS「信長の野望 ～俺たちの戦国～」配信決定！最大100人規模のリアルタイム大規模合戦を搭載！ https://t.co/JkdWKmvG7E",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/JkdWKmvG7E",
+              "expanded_url": "http://dlvr.it/M9QXvM",
+              "display_url": "dlvr.it/M9QXvM",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 332292591,
+        "user_id_str": "332292591",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550311227936768,
+        "conversation_id_str": "771550311227936768",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550432497799168": {
+        "created_at": "Fri Sep 02 03:28:52 +0000 2016",
+        "id": 771550432497799168,
+        "id_str": "771550432497799168",
+        "full_text": "https://t.co/UsCiZBWAfs Bluetooth Smart Wrist Watch Phone Mate For IOS Android iPhone Samsung HTC",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          97
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/UsCiZBWAfs",
+              "expanded_url": "http://ift.tt/2bNRL4A",
+              "display_url": "ift.tt/2bNRL4A",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 3419431515,
+        "user_id_str": "3419431515",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550432497799168,
+        "conversation_id_str": "771550432497799168",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "en",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      },
+      "771550249378717698": {
+        "created_at": "Fri Sep 02 03:28:08 +0000 2016",
+        "id": 771550249378717698,
+        "id_str": "771550249378717698",
+        "full_text": "レベル98の水槽はこちらです。 #フィッシュガーデン iOS版:https://t.co/YW6EAFarwO Android版:https://t.co/JA21eRTT2M https://t.co/PHQ5DTiBeq",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          88
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "フィッシュガーデン",
+              "indices": [
+                16,
+                26
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/YW6EAFarwO",
+              "expanded_url": "https://goo.gl/Zhihal",
+              "display_url": "goo.gl/Zhihal",
+              "indices": [
+                32,
+                55
+              ]
+            },
+            {
+              "url": "https://t.co/JA21eRTT2M",
+              "expanded_url": "https://goo.gl/GJBwjD",
+              "display_url": "goo.gl/GJBwjD",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 771550247852007424,
+              "id_str": "771550247852007424",
+              "indices": [
+                89,
+                112
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUY3NGVYAA_xlE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUY3NGVYAA_xlE.jpg",
+              "url": "https://t.co/PHQ5DTiBeq",
+              "display_url": "pic.twitter.com/PHQ5DTiBeq",
+              "expanded_url": "https://twitter.com/jinwithhito6/status/771550249378717698/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1024,
+                "height": 576
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 771550247852007424,
+              "id_str": "771550247852007424",
+              "indices": [
+                89,
+                112
+              ],
+              "media_url": "http://pbs.twimg.com/media/CrUY3NGVYAA_xlE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CrUY3NGVYAA_xlE.jpg",
+              "url": "https://t.co/PHQ5DTiBeq",
+              "display_url": "pic.twitter.com/PHQ5DTiBeq",
+              "expanded_url": "https://twitter.com/jinwithhito6/status/771550249378717698/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1024,
+                "height": 576
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "media_key": "3_771550247852007424",
+              "ext_sensitive_media_warning": null,
+              "ext_media_availability": {
+                "status": "available"
+              },
+              "ext_alt_text": null,
+              "ext_media_color": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "red": 24,
+                      "green": 134,
+                      "blue": 185
+                    },
+                    "percentage": 51.94
+                  },
+                  {
+                    "rgb": {
+                      "red": 160,
+                      "green": 122,
+                      "blue": 23
+                    },
+                    "percentage": 3.96
+                  },
+                  {
+                    "rgb": {
+                      "red": 173,
+                      "green": 37,
+                      "blue": 49
+                    },
+                    "percentage": 3.82
+                  },
+                  {
+                    "rgb": {
+                      "red": 48,
+                      "green": 141,
+                      "blue": 123
+                    },
+                    "percentage": 3.81
+                  },
+                  {
+                    "rgb": {
+                      "red": 54,
+                      "green": 149,
+                      "blue": 33
+                    },
+                    "percentage": 3.54
+                  }
+                ]
+              },
+              "ext": {
+                "mediaStats": {
+                  "r": "Missing",
+                  "ttl": -1
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 726397516460126208,
+        "user_id_str": "726397516460126208",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "conversation_id": 771550249378717698,
+        "conversation_id_str": "771550249378717698",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "ja",
+        "supplemental_language": null,
+        "ext_views": {
+          "state": "Enabled"
+        },
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        }
+      }
+    },
+    "users": {
+      "332361768": {
+        "id": 332361768,
+        "id_str": "332361768",
+        "name": "バイアグラ",
+        "screen_name": "viagragra",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 612,
+        "fast_followers_count": 0,
+        "normal_followers_count": 612,
+        "friends_count": 709,
+        "listed_count": 12,
+        "created_at": "Sat Jul 09 17:27:24 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 107707,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574130177/9eed0762586ff6e5a80eccdf91f1d16a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574130177/9eed0762586ff6e5a80eccdf91f1d16a_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_has_nft_avatar": false,
+        "ext_is_blue_verified": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "412646305": {
+        "id": 412646305,
+        "id_str": "412646305",
+        "name": "edmian",
+        "screen_name": "edmian1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "fast_followers_count": 0,
+        "normal_followers_count": 20,
+        "friends_count": 112,
+        "listed_count": 0,
+        "created_at": "Tue Nov 15 00:07:33 +0000 2011",
+        "favourites_count": 623,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 89,
+        "media_count": 6,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/949805805498400769/ipKTer1V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/949805805498400769/ipKTer1V_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": true,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332339871": {
+        "id": 332339871,
+        "id_str": "332339871",
+        "name": "りえちゃんずゲーム",
+        "screen_name": "RiechanzGame",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 606,
+        "fast_followers_count": 0,
+        "normal_followers_count": 606,
+        "friends_count": 745,
+        "listed_count": 13,
+        "created_at": "Sat Jul 09 16:41:00 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 106215,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574063635/c64bf429199881219d7dfdc10b615888_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574063635/c64bf429199881219d7dfdc10b615888_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332277868": {
+        "id": 332277868,
+        "id_str": "332277868",
+        "name": "アヤコズゲーム",
+        "screen_name": "AyakosGame",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 540,
+        "fast_followers_count": 0,
+        "normal_followers_count": 540,
+        "friends_count": 694,
+        "listed_count": 11,
+        "created_at": "Sat Jul 09 14:34:48 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 100955,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574028658/e1d351b17b8bedcb47578bb228cbe905_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574028658/e1d351b17b8bedcb47578bb228cbe905_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332357213": {
+        "id": 332357213,
+        "id_str": "332357213",
+        "name": "トラキュア",
+        "screen_name": "torakyua",
+        "location": "",
+        "description": "",
+        "url": "http://t.co/nFIvmbhe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/nFIvmbhe",
+                "expanded_url": "http://torakyua.blogspot.jp/",
+                "display_url": "torakyua.blogspot.jp",
+                "indices": [
+                  0,
+                  20
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 669,
+        "fast_followers_count": 0,
+        "normal_followers_count": 669,
+        "friends_count": 814,
+        "listed_count": 12,
+        "created_at": "Sat Jul 09 17:17:40 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 104953,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3125487226/d8ba11549cdc92019409d64e9e3d0b07_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3125487226/d8ba11549cdc92019409d64e9e3d0b07_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_has_nft_avatar": false,
+        "ext_is_blue_verified": false,
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "297622791": {
+        "id": 297622791,
+        "id_str": "297622791",
+        "name": "Clasificados Miranda",
+        "screen_name": "ClasiffMiranda",
+        "location": "Miranda",
+        "description": "Publica a traves de este Canal tus Anuncios Clasificados. Usa DM ClasiffMIRANDA +Mensaje..Publica tus Ventas, Alquileres, y mas..!!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2383,
+        "fast_followers_count": 0,
+        "normal_followers_count": 2383,
+        "friends_count": 2001,
+        "listed_count": 201,
+        "created_at": "Thu May 12 20:32:15 +0000 2011",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 240132,
+        "media_count": 142969,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585460229321654272/UZD6Qhzh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585460229321654272/UZD6Qhzh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/297622791/1428015348",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [
+          674968657458540544
+        ],
+        "pinned_tweet_ids_str": [
+          "674968657458540544"
+        ],
+        "has_custom_timelines": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "3690184512": {
+        "id": 3690184512,
+        "id_str": "3690184512",
+        "name": "DEALS FOR IPHONE",
+        "screen_name": "Shfzs_xyz_22",
+        "location": "USA",
+        "description": "#iphone #apple #mac",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "fast_followers_count": 0,
+        "normal_followers_count": 123,
+        "friends_count": 3,
+        "listed_count": 33,
+        "created_at": "Sat Sep 26 07:34:45 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 195500,
+        "media_count": 195492,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658148853007388672/KV_rRefK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658148853007388672/KV_rRefK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3690184512/1445749925",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_has_nft_avatar": false,
+        "ext_is_blue_verified": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "2425105406": {
+        "id": 2425105406,
+        "id_str": "2425105406",
+        "name": "ドラコ",
+        "screen_name": "sakuratabeta8",
+        "location": "",
+        "description": "フクロモモンガかわいすぎる",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 49,
+        "fast_followers_count": 0,
+        "normal_followers_count": 49,
+        "friends_count": 92,
+        "listed_count": 0,
+        "created_at": "Thu Apr 03 05:57:57 +0000 2014",
+        "favourites_count": 14021,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5453,
+        "media_count": 279,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239198970687008768/x3G3wsMm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239198970687008768/x3G3wsMm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2425105406/1662173266",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [
+          1423294781942157321
+        ],
+        "pinned_tweet_ids_str": [
+          "1423294781942157321"
+        ],
+        "has_custom_timelines": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_has_nft_avatar": false,
+        "ext_is_blue_verified": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332335727": {
+        "id": 332335727,
+        "id_str": "332335727",
+        "name": "マユマユゲーム",
+        "screen_name": "MayuMayuGeme",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 606,
+        "fast_followers_count": 0,
+        "normal_followers_count": 606,
+        "friends_count": 762,
+        "listed_count": 15,
+        "created_at": "Sat Jul 09 16:32:24 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 105802,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574057782/e2e863a1abd3fe833be7ad222f8b6e0a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574057782/e2e863a1abd3fe833be7ad222f8b6e0a_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332292591": {
+        "id": 332292591,
+        "id_str": "332292591",
+        "name": "ゲームニュースショー",
+        "screen_name": "GameNewsShow",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 594,
+        "fast_followers_count": 0,
+        "normal_followers_count": 594,
+        "friends_count": 717,
+        "listed_count": 17,
+        "created_at": "Sat Jul 09 15:03:27 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 99176,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574040020/19fd7447212707ed793bf427d1af9e53_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574040020/19fd7447212707ed793bf427d1af9e53_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_has_nft_avatar": false,
+        "ext_is_blue_verified": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "726397516460126208": {
+        "id": 726397516460126208,
+        "id_str": "726397516460126208",
+        "name": "ひとぴょん",
+        "screen_name": "jinwithhito6",
+        "location": "",
+        "description": "剛くんにずっと惚れてます。野球も大好き💕阪神命❗️おばさんなのにゲーム🎮やらないと心が壊れてしまいます😱美味しいものとかわいいもの、大好きな毎日おくってます。ちょっと変わってますが仲良くしてくださいね〜🌟今さらですが、基本kinkiふたりLoveなのでよろしくお願いします❤️",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "fast_followers_count": 0,
+        "normal_followers_count": 55,
+        "friends_count": 318,
+        "listed_count": 0,
+        "created_at": "Sat Apr 30 13:07:18 +0000 2016",
+        "favourites_count": 7713,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1164,
+        "media_count": 470,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/749597009506496514/InyEL7Dp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/749597009506496514/InyEL7Dp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "3419431515": {
+        "id": 3419431515,
+        "id_str": "3419431515",
+        "name": "RTP SEO",
+        "screen_name": "RTPSEO",
+        "location": "Online!",
+        "description": "Freeeeeeeeeeeeeeeeeeeeeesh",
+        "url": "https://t.co/D51waFX7Sa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/D51waFX7Sa",
+                "expanded_url": "https://pre-order.co/",
+                "display_url": "pre-order.co",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 873,
+        "fast_followers_count": 0,
+        "normal_followers_count": 873,
+        "friends_count": 0,
+        "listed_count": 251,
+        "created_at": "Thu Aug 13 04:54:46 +0000 2015",
+        "favourites_count": 30,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1590538,
+        "media_count": 74501,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1355166008198246403/8wh1ydaz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355166008198246403/8wh1ydaz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": true,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "297623430": {
+        "id": 297623430,
+        "id_str": "297623430",
+        "name": "Clasificados Caracas",
+        "screen_name": "ClasiffCARACAS",
+        "location": "Caracas",
+        "description": "Publica a traves de este Canal tus Anuncios Clasificados. Usa DM ClasiffCARACAS +Mensaje..No uses el @..Publica tus Ventas, Alquileres, lo que quieres Comprar..",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 12935,
+        "fast_followers_count": 0,
+        "normal_followers_count": 12935,
+        "friends_count": 8653,
+        "listed_count": 346,
+        "created_at": "Thu May 12 20:33:45 +0000 2011",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 434505,
+        "media_count": 230944,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1351072359/ClasiffCARACAS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351072359/ClasiffCARACAS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/297623430/1400340426",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": true,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332345702": {
+        "id": 332345702,
+        "id_str": "332345702",
+        "name": "サラマンター",
+        "screen_name": "SaraMantaaa",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 588,
+        "fast_followers_count": 0,
+        "normal_followers_count": 588,
+        "friends_count": 726,
+        "listed_count": 9,
+        "created_at": "Sat Jul 09 16:53:03 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 105574,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574072965/f9ec17c51603bb2e229e63604e87413f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574072965/f9ec17c51603bb2e229e63604e87413f_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "4169239693": {
+        "id": 4169239693,
+        "id_str": "4169239693",
+        "name": "どんちゅー",
+        "screen_name": "coc_dongchu",
+        "location": "",
+        "description": "倭文組所属のどんちゅーですm(_ _)m リーグ締めグロ24位、日本クラン史上初の倭文組リーグ締め世界一達成メンバーに入れた事が誇りです。たまにキッズと戯れるのが趣味なiOS/androidアプリ技術に多少詳しいおっさんです",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 565,
+        "fast_followers_count": 0,
+        "normal_followers_count": 565,
+        "friends_count": 225,
+        "listed_count": 0,
+        "created_at": "Sun Nov 08 14:50:03 +0000 2015",
+        "favourites_count": 576,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 624,
+        "media_count": 115,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888683913127669761/xJFU6fyC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888683913127669761/xJFU6fyC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": true,
+        "can_media_tag": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332352754": {
+        "id": 332352754,
+        "id_str": "332352754",
+        "name": "皿割んだー",
+        "screen_name": "SaraWandar",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 659,
+        "fast_followers_count": 0,
+        "normal_followers_count": 659,
+        "friends_count": 828,
+        "listed_count": 10,
+        "created_at": "Sat Jul 09 17:08:03 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 105118,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574119409/18a9e8880018bd117810f8f913f5f315_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574119409/18a9e8880018bd117810f8f913f5f315_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "290646797": {
+        "id": 290646797,
+        "id_str": "290646797",
+        "name": "ゲーム",
+        "screen_name": "Game731",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1037,
+        "fast_followers_count": 0,
+        "normal_followers_count": 1037,
+        "friends_count": 1411,
+        "listed_count": 15,
+        "created_at": "Sat Apr 30 17:00:07 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 135424,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1333250370/i70_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333250370/i70_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_is_blue_verified": false,
+        "ext_has_nft_avatar": false,
+        "ext": {
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      },
+      "332331504": {
+        "id": 332331504,
+        "id_str": "332331504",
+        "name": "コミナミマン",
+        "screen_name": "kominamiman",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 549,
+        "fast_followers_count": 0,
+        "normal_followers_count": 549,
+        "friends_count": 703,
+        "listed_count": 11,
+        "created_at": "Sat Jul 09 16:23:40 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 105214,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3574053528/7c52b3689d5fff8f9b6f2030567d881a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3574053528/7c52b3689d5fff8f9b6f2030567d881a_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "can_dm": false,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "promotable_user",
+        "advertiser_account_service_levels": [
+          "analytics"
+        ],
+        "profile_interstitial_type": "",
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_has_nft_avatar": false,
+        "ext_is_blue_verified": false,
+        "ext": {
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          },
+          "superFollowMetadata": {
+            "r": {
+              "ok": {
+                "superFollowEligible": false,
+                "superFollowing": false,
+                "superFollowedBy": false,
+                "exclusiveTweetFollowing": false,
+                "privateSuperFollowing": false
+              }
+            },
+            "ttl": -1
+          },
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      }
+    },
+    "moments": {},
+    "cards": {},
+    "places": {},
+    "media": {},
+    "broadcasts": {},
+    "topics": {},
+    "lists": {}
+  },
+  "timeline": {
+    "id": "LatestTabSrpProduct-Timeline",
+    "instructions": [
+      {
+        "addEntries": {
+          "entries": [
+            {
+              "entryId": "tweet-771550524483043328",
+              "sortIndex": "1670726166052299712",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550524483043328",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 39,
+                            "endIndex": 42
+                          },
+                          {
+                            "startIndex": 49,
+                            "endIndex": 56
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550468979896320",
+              "sortIndex": "1670726166052299711",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550468979896320",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 40,
+                            "endIndex": 43
+                          },
+                          {
+                            "startIndex": 71,
+                            "endIndex": 78
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550432497799168",
+              "sortIndex": "1670726166052299710",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550432497799168",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 67,
+                            "endIndex": 70
+                          },
+                          {
+                            "startIndex": 71,
+                            "endIndex": 78
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550327862550530",
+              "sortIndex": "1670726166052299709",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550327862550530",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 57,
+                            "endIndex": 60
+                          },
+                          {
+                            "startIndex": 63,
+                            "endIndex": 70
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550314889523201",
+              "sortIndex": "1670726166052299708",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550314889523201",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550314289737728",
+              "sortIndex": "1670726166052299707",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550314289737728",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550312410648577",
+              "sortIndex": "1670726166052299706",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550312410648577",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550312343572480",
+              "sortIndex": "1670726166052299705",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550312343572480",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550311953477632",
+              "sortIndex": "1670726166052299704",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550311953477632",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550311374688257",
+              "sortIndex": "1670726166052299703",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550311374688257",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550311248908288",
+              "sortIndex": "1670726166052299702",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550311248908288",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550311227936768",
+              "sortIndex": "1670726166052299701",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550311227936768",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550311051763712",
+              "sortIndex": "1670726166052299700",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550311051763712",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550310305140738",
+              "sortIndex": "1670726166052299699",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550310305140738",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 0,
+                            "endIndex": 7
+                          },
+                          {
+                            "startIndex": 8,
+                            "endIndex": 11
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550289757208577",
+              "sortIndex": "1670726166052299698",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550289757208577",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 25,
+                            "endIndex": 28
+                          },
+                          {
+                            "startIndex": 29,
+                            "endIndex": 36
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550249378717698",
+              "sortIndex": "1670726166052299697",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550249378717698",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 27,
+                            "endIndex": 30
+                          },
+                          {
+                            "startIndex": 56,
+                            "endIndex": 63
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550226020569088",
+              "sortIndex": "1670726166052299696",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550226020569088",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 84,
+                            "endIndex": 91
+                          },
+                          {
+                            "startIndex": 100,
+                            "endIndex": 103
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550206718468098",
+              "sortIndex": "1670726166052299695",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550206718468098",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 84,
+                            "endIndex": 91
+                          },
+                          {
+                            "startIndex": 100,
+                            "endIndex": 103
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550172765487105",
+              "sortIndex": "1670726166052299694",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550172765487105",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 91,
+                            "endIndex": 98
+                          },
+                          {
+                            "startIndex": 99,
+                            "endIndex": 102
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "tweet-771550145712300032",
+              "sortIndex": "1670726166052299693",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "771550145712300032",
+                      "displayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 27,
+                            "endIndex": 30
+                          },
+                          {
+                            "startIndex": 56,
+                            "endIndex": 63
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAABCgACDjoMFr5pZz4LAAMAAAALaW9zIGFuZHJvaWQKAAUeiqsJbKXszAgABgAAAAEKAAdTGVMMJkkrgwAAAAAA"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "replaceEntry": {
+          "entryIdToReplace": "cursor-top-9223372036854775807",
+          "entry": {
+            "entryId": "cursor-top-9223372036854775807",
+            "sortIndex": "9223372036854775807",
+            "content": {
+              "operation": {
+                "cursor": {
+                  "value": "DAADDAABCgABFy-cEeaWcAAKAAIKtRjFCZUgAAAIAAIAAAABCAADAAAAAAgABAAAAAQKAAUXL5yYnIAnEAoABhcvnJicfzywAAA",
+                  "cursorType": "Top"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "replaceEntry": {
+          "entryIdToReplace": "cursor-bottom-0",
+          "entry": {
+            "entryId": "cursor-bottom-0",
+            "sortIndex": "0",
+            "content": {
+              "operation": {
+                "cursor": {
+                  "value": "DAADDAABCgABFy-cEeaWcAAKAAIKtRjFCZUgAAAIAAIAAAACCAADAAAAAAgABAAAAAQKAAUXL5yYnIAnEAoABhcvnJicfzywAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "query": "skateboarding baseball guitar"
+}
